@@ -1,0 +1,458 @@
+{
+  "headerData": {
+    "logoDark": "/images/logo.png",
+    "logoLight": "/images/logo.png"
+  },
+  "heroData": {
+    "title": "My name<br />is <b>Nithin</b> <span><br />Bharathi...</span>",
+    "subTitle": "I am that <span>Cybersecurity</span> guy",
+    "ImgLink": "/images/home-banner.png",
+    "phone": "+91 6369 601050",
+    "email": "nithinthelordest@gmail.com",
+    "btnText": "Work with me",
+    "socialData": [
+      {
+        "link": "https://www.linkedin.com/in/nithinbharathi/",
+        "icon": "linkedin"
+      },
+      {
+        "link": "https://github.com/Nithinbharathi93/",
+        "icon": "github"
+      },
+      {
+        "link": "",
+        "icon": "google"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "/images/about-banner.png",
+      "name": "Nithinbharathi",
+      "designation": "<span>I am that</span> Cybersecurity <span>guy</span>",
+      "resumeCv": "/Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "I’m a passionate cybersecurity enthusiast and full-stack developer based in Coimbatore, India. I create secure, efficient, and innovative tech solutions — from offensive security tools to real-world web apps.",
+      "contactInfo": [
+        {
+          "icon": "phone",
+          "data": "+91 6369 601050"
+        },
+        {
+          "icon": "github",
+          "data": "Nithinbharathi93"
+        },
+        {
+          "icon": "envelope",
+          "data": "nithinthelordest@gmail.com"
+        },
+        {
+          "icon": "map",
+          "data": "Coimbatore, India"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "20+",
+          "meta": "Projects <br /> completed...",
+          "text": "I have been with computers since my early childhood. Thus I extend my experties in cybersecurity, web development, and Networking."
+        },
+        {
+          "number": "200+",
+          "meta": "Students <br /> trained...",
+          "text": "With over 2 years of experience —  from a trainee to team lead, I have acquired the skills to make your project a success."
+        }
+      ],
+      "note": "“Security isn’t a product — it’s a mindset. I build software with protection and privacy at its core.”"
+    }
+  },
+
+  "experienceData": {
+    "text": "Hello there! My o  verall journey is keenly foused on a collaborative development mindset. Through out my academics and career, I tend to educate and learn crucial nuances from people around me.",
+    "resumeCv": "/Resume.pdf",
+    "education": [
+      {
+        "start": "2022",
+        "end": "2025",
+        "score": "8.86 GPA",
+        "title": "BE Computer Science & Engineering",
+        "subtitle": "SNS College of Technology",
+        "description": "Pursuing a comprehensive curriculum covering programming, data structures, networking, cybersecurity, and full-stack development. Completed several hands-on projects in ethical hacking and secure web development."
+      },
+      {
+        "start": "2021",
+        "end": "2022",
+        "score": "92.2%",
+        "title": "Grade 12",
+        "subtitle": "Agaram Public School",
+        "description": "Studied Physics, Chemistry, Mathematics, and Computer Science with a focus on logic building and software fundamentals. Developed basic web applications as early projects."
+      },
+      {
+        "start": "2019",
+        "end": "2020",
+        "score": "81.1%",
+        "title": "Grade 10",
+        "subtitle": "Greenfield International School",
+        "description": "Laid strong foundations in general sciences and computer basics. Actively participated in school-level tech expos and coding contests."
+      }
+    ],
+    "experience": [
+      {
+        "start": "Nov 2024",
+        "end": "Present",
+        "title": "Team Lead",
+        "subtitle": "Techsnapie Solutions",
+        "description": "Managing a cross-functional team to deliver secure and scalable web applications. Mentoring junior developers and overseeing code reviews and agile planning."
+      },
+      {
+        "start": "Jul 2023",
+        "end": "Nov 2024",
+        "title": "Web Developer",
+        "subtitle": "Techsnapie Solutions",
+        "description": "Developed and deployed responsive web platforms using MERN stack. Integrated APIs, handled performance tuning, and ensured compliance with security practices."
+      },
+      {
+        "start": "Jan 2025",
+        "end": "Feb 2025",
+        "title": "Cybersecurity Intern",
+        "subtitle": "IBM & Edunet",
+        "description": "Engaged in practical cybersecurity training including threat modeling, cryptographic methods, steganography, and vulnerability assessment using real-world simulations."
+      },
+      {
+        "start": "Oct 2024",
+        "end": "May 2025",
+        "title": "All Avenue Director",
+        "subtitle": "Rotaract Club of SNSCT",
+        "description": "Coordinated and led community service and professional development events. Oversaw activities across multiple avenues including public relations, digital operations, and member engagement."
+      }
+    ],
+    "pastRoles": [
+      {
+        "start": "Mar 2025",
+        "end": "Apr 2025",
+        "title": "Campus Coordinator",
+        "subtitle": "SNS Dt Team",
+        "description": "Handled more than 150 students and helped them develop a habit to work on leetcode. This session allowed the student to come up with their hidden coding skills"
+      },
+      {
+        "start": "Oct 2024",
+        "end": "May 2025",
+        "title": "Joint Secretary",
+        "subtitle": "Xenix Association",
+        "description": "Organized technical workshops and seminars on emerging technologies. Handled planning, speaker invitations, and content design for cybersecurity and development topics."
+      },
+      {
+        "start": "Nov 2023",
+        "end": "Oct 2024",
+        "title": "Executive Member",
+        "subtitle": "Rotaract Club of SNSCT",
+        "description": "Assisted in planning social impact events, handled digital promotions, and improved club outreach. Played a key role in event logistics and technical execution."
+      },
+      {
+        "start": "July 2023",
+        "end": "June 2024",
+        "title": "Organizing Committee Member",
+        "subtitle": "SNS IMUN Club",
+        "description": "Helped plan and execute Model United Nations conferences. Managed delegate coordination, website content, and digital communication."
+      }
+    ]
+  },
+
+
+"serviceData": [
+  {
+    "title": "Web Development",
+    "heading": "I create static and dynamic websites using MERN and WordPress.",
+    "triger": "One",
+    "imgLink": "/images/services-1.png",
+    "text": "I specialize in developing responsive, secure, and user-friendly websites. Whether it's a sleek portfolio, an interactive dashboard, or a CMS-powered site, I build scalable web solutions using modern stacks like MERN and platforms like WordPress."
+  },
+  {
+    "title": "Pentesting",
+    "heading": "I help you achieve security compliance and uncover vulnerabilities.",
+    "triger": "Two",
+    "imgLink": "/images/services-2.png",
+    "text": "With hands-on expertise in ethical hacking and vulnerability assessment, I provide thorough penetration testing services. From web apps to networks, I help identify risks, conduct threat modeling, and guide you toward achieving robust security compliance."
+  },
+  {
+    "title": "Mobile Application",
+    "heading": "I build cross-platform apps with Python, React Native, and Flutter.",
+    "triger": "Three",
+    "imgLink": "/images/services-3.png",
+    "text": "I develop mobile applications that combine seamless user experiences with high performance. Using frameworks like React Native, Flutter, and Kivy (Python), I craft apps that run smoothly on both Android and iOS, tailored to your goals and audience."
+  },
+  {
+    "title": "Tool Development",
+    "heading": "I develop custom tools for offensive security and automation.",
+    "triger": "Four",
+    "imgLink": "/images/services-4.png",
+    "text": "I design and build specialized tools for penetration testing, reconnaissance, and red teaming operations. My focus is on creating efficient, scriptable utilities that enhance cybersecurity workflows and automate key aspects of offensive security."
+  }
+],
+"portfolioData": [
+  {
+    "ImgLink": "/images/proj-1.png",
+    "title": "P2Peek",
+    "link": "https://github.com/your-username/p2peek",
+    "subTitle": "Flagship | Communication Platform",
+    "paragraphList": [
+      { "text": "P2Peek is a peer-to-peer communication application with built-in steganography and encryption, offering a secure alternative to traditional chat apps." },
+      { "text": "Messages can be embedded inside image containers using LSB steganography, and the resulting image is encrypted before transmission." },
+      { "text": "Includes features like user whitelisting, blacklisting, profile-based access control, and an admin dashboard for session monitoring." },
+      { "text": "Developed using Python for backend logic and WebSockets for real-time communication. Available in both native and web formats." }
+    ]
+  },
+  {
+    "ImgLink": "/images/proj-2.png",
+    "title": "Phishing Link Finder",
+    "link": "https://github.com/your-username/phishing-link-finder",
+    "subTitle": "Defensive Security Tool",
+    "paragraphList": [
+      { "text": "Phishing Link Finder is a cybersecurity tool designed to detect and flag potential phishing URLs in real-time using heuristic patterns and URL analysis." },
+      { "text": "It incorporates blacklisted domain checks, fuzzy matching with known phishing domains, and detection of suspicious URL encoding techniques." },
+      { "text": "This tool is ideal for security analysts and email gateways to pre-scan links in inbound messages, significantly reducing the risk of social engineering attacks." },
+      { "text": "Built with Python and Flask for the backend API and uses a custom-trained machine learning model for enhanced phishing probability scoring." }
+    ]
+  },
+  {
+    "ImgLink": "/images/proj-3.png",
+    "title": "Subdomain Finder",
+    "link": "https://github.com/your-username/subdomain-finder",
+    "subTitle": "Offensive Security Tool",
+    "paragraphList": [
+      { "text": "Subdomain Finder is a reconnaissance tool that helps ethical hackers discover hidden or forgotten subdomains of a given domain." },
+      { "text": "It scrapes data from multiple open-source intelligence (OSINT) sources like crt.sh, VirusTotal, and DNSDumpster, and also supports brute-force mode." },
+      { "text": "Designed for pentesters and bug bounty hunters, this tool assists in uncovering potential attack surfaces during security assessments." },
+      { "text": "Built in Python with asynchronous requests to achieve fast enumeration, it also supports output in CSV/JSON format for integration with other tools." }
+    ]
+  },
+  {
+    "ImgLink": "/images/proj-4.png",
+    "title": "AI Integrated Transcriber",
+    "link": "https://github.com/your-username/ai-transcriber",
+    "subTitle": "Everyday Assist",
+    "paragraphList": [
+      { "text": "An AI-powered transcriber that converts speech to text in real-time, optimized for meetings, lectures, and interviews." },
+      { "text": "Integrates Whisper by OpenAI for high-accuracy speech recognition, with support for multiple languages and dialects." },
+      { "text": "The tool can automatically detect speakers, remove filler words, and generate clean, timestamped transcripts." },
+      { "text": "Supports upload of audio files or live microphone input and exports transcripts in DOCX, TXT, and PDF formats." }
+    ]
+  }
+],
+  "blogData": [
+    {
+      "ImgLink": "/images/blog-1.jpg",
+      "date": "12 July, 2022",
+      "delay": "700",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-2.jpg",
+      "date": "11 July, 2022",
+      "delay": "800",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-3.jpg",
+      "date": "10 July, 2022",
+      "delay": "900",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "ImgLink": "/images/blog-4.jpg",
+      "date": "10 July, 2022",
+      "delay": "1000",
+      "title": "12 unique example of portfolio websites",
+      "paragraphList": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+        },
+        {
+          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    }
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/sd-pic.png",
+          "name": "Sanjaydharshan",
+          "designation": "Frontend developer",
+          "text": "Nithinbharathi is always a great mentor and a lovely senior I never thought work would become much easier and fun-filled days were cherishing each and every moment of me being in Techsnapie Solutions with my Brother Nithinbharathi"
+        },
+        {
+          "imgLink": "/images/k-pic.png",
+          "name": "Karuppasamy",
+          "designation": "MERN Developer",
+          "text": "Working with Nithin has been an exceptional experience. His deep understanding of web technologies and his problem-solving approach consistently elevate our freelance projects. A true professional and a great teammate."
+        },
+        {
+          "imgLink": "/images/rith-pic.png",
+          "name": "Rithish.G",
+          "designation": "DevOps Engineer",
+          "text": "At Techsnapie, I’ve seen him manage complex systems with ease and collaborate seamlessly across domains. His cybersecurity insights, combined with solid development skills, make him a valuable asset in any tech-driven environment."
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        },
+        {
+          "imgLink": "/images/brand-3.png"
+        },
+        {
+          "imgLink": "/images/brand-4.png"
+        },
+        {
+          "imgLink": "/images/brand-1.png"
+        },
+        {
+          "imgLink": "/images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Got a question or collaboration idea?",
+        "text": "",
+        "emailLink": "Send an email"
+      },
+      {
+        "icon": "compass",
+        "title": "Let’s connect! Reach out if you're nearby.",
+        "text": "Coimbatore, Tamil Nadu, India – 641035"
+      },
+      {
+        "icon": "phone",
+        "title": "Available Mon to Fri, 9 AM – 6 PM (IST)",
+        "text": "+91 6369 601050"
+      }
+    ],
+    "contactForm": {
+      "title": "Got Ideas? Let's Build Together.",
+      "text": "Tell me what you have in mind. I’d love to hear from you."
+    }
+  },
+  "footerData": {
+    "ImgLink": "/images/about-banner.png",
+    "name": "Nithinbharathi"
+  },
+  "socialData": [
+    {
+      "icon": "instagram",
+      "link": "https://www.instagram.com/nithinbharathi.t/"
+    },
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/nithinbharathi/"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/Nithinbharathi93/"
+    },
+    {
+      "icon": "google",
+      "link": "mailto:nithinthelordest@gmail.com"
+    }
+  ]
+}

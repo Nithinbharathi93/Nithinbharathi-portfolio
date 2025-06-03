@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+p, h2, a, .s-text, .services-small-desc, h6, input, button, h4, .form-label, .form-control, .px-btn {
+    font-family: "Sora", sans-serif;
+}
