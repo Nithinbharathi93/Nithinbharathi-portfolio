@@ -57,7 +57,7 @@
 	padding: 10px 20px;
 	z-index: 111;
 	.fixed-header & {
-		// background: var(--px-dark);
+		background: var(--px-dark);
 	}
 	@include up-lg {
 		display: none;
