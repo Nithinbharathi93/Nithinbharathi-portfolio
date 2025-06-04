@@ -172,7 +172,7 @@ a {
       width: 50vw;
     }
     @include down-sm {
-      background-size: 0;
+      background-size: 70%;
     }
   }
   .hb-text {
@@ -180,10 +180,10 @@ a {
     position: relative;
     z-index: 1;
     h1 {
-      font-size: 90px;
+      font-size: 50px;
       font-weight: 800;
       color: var(--px-white);
-      line-height: 0.9;
+      line-height: 1.2;
       text-transform: uppercase;
       margin-bottom: 15px;
       @media (max-width: 1440px) {
@@ -482,7 +482,7 @@ a {
     margin: 0;
     font-size: 24px;
     font-family: "Sora", sans-serif;
-    color: var(--px-white);
+    // color: var(--px-white);
     font-weight: 700;
     text-transform: uppercase;
     @include down-sm {
@@ -557,7 +557,7 @@ a {
             }
           }
           .services-title {
-            background: linear-gradient(270.16deg, var(--px-theme-3) 5.74%, var(--px-theme) 92.05%);
+            background: linear-gradient(270.16deg, var(--px-theme) 5.74%, var(--px-theme-3) 92.05%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -687,6 +687,10 @@ a {
 }
 
 .testimonials-box {
+  box-shadow: rgba(var(--px-white-rgb), 0.75) 5px 5px 5px;
+  background: rgba(var(--px-white-rgb), 0.2);
+  padding: 10px;
+  border-radius: 10px;
   .t-text {
     display: flex;
     flex-direction: column;
@@ -713,6 +717,10 @@ a {
   }
 }
 
+.t-avatar img {
+      border-radius: 10px;
+    }
+
 .testimonials-brand {
   margin-top: 80px;
   padding-top: 20px;
@@ -724,6 +732,24 @@ a {
 ---------------------------*/
 .slick-slide {
   padding: 0 12px;
+}
+.slick-prev, .slick-next {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.slick-prev {
+  left: -30px;
+}
+
+.slick-next {
+  right: -30px;
 }
 .slick-dots {
   text-align: center;
@@ -738,11 +764,11 @@ a {
     height: 10px;
     background: transparent;
     border: 1px solid var(--px-text);
-    transition: ease all 0.55s;
+    transition: ease all 0.25s;
     border-radius: 8px;
     margin: 0 4px;
     &.slick-active {
-      background: var(--px-theme);
+      background: #fff;
       width: 20px;
     }
     button {

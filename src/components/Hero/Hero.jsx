@@ -26,10 +26,11 @@ const Hero = ({ data }) => {
     <section id="home" className="home-section bg-dark">
       <div className="container">
         <div className="row  min-vh-100 align-items-center">
-          <div className="col-lg-7 col-xl-7 col-xxl-6">
+          <div className="col-md-7 col-lg-7 col-xl-7 col-xxl-6">
             <div className="hb-text">
               <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">{perser(title)}</h1>
               <p className="lead" data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(subTitle)}</p>
+              <div className="hb-me-mid" style={{ backgroundImage: `url(${ImgLink})` }} data-aos="fade-left" data-aos-duration="800" data-aos-delay="800"/>
               <div className="btn-bar" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
                 <ScrollLink to="contact" spy={true} className="px-btn-work">
                   Work with ME

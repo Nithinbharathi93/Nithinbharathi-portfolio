@@ -27,7 +27,7 @@ const About = ({ data }) => {
               <p>{perser(designation)}</p>
               <div className="btn-bar">
                 <a className="px-btn" href={resumeCv} download>
-                  Download CV <Icon icon="bi-download" />
+                  Download Resume <Icon icon="bi-download" />
                 </a>
               </div>
             </div>

@@ -12,9 +12,6 @@ const Testimonial = ({ data }) => {
         <div className="testimonials">
           <Carousel data={testimonialInfo} />
         </div>
-        {/* <div className="testimonials-brand">
-          <Carousel data={brandInfo} />
-        </div> */}
       </div>
     </section >
   )

@@ -17,7 +17,7 @@ const Experience = ({ data }) => {
   ];
 
   return (
-    <section className="section experience-section bg-g">
+    <section id="experience" className="section experience-section bg-g">
       <div className="container">
         <div className="row gy-5">
           <div className="col-lg-5">
@@ -31,7 +31,7 @@ const Experience = ({ data }) => {
               </div>
             </div>
           </div>
-          <div className="col-lg-7 ps-xl-5">
+          <div className="col-lg-7">
             <Swiper
               pagination={{ clickable: true }}
               modules={[Pagination]}

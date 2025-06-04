@@ -5,3 +5,21 @@
 .bg-dark {
 	background: linear-gradient(177deg, #100E24 0%, #030211 190%);
 }
+
+.bg-g {
+	background: #eef5ff;
+	color: #030211;
+	.slick-dots {
+		li {
+			border: #000 solid 1px;
+		} 
+		.slick-active {
+			background-color: var(--px-theme);
+		}
+	}
+	.testimonials-box {
+		box-shadow: #929395 5px 5px 5px;
+		
+  background: #f3f3f3;
+	}
+}

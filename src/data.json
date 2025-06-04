@@ -1,11 +1,11 @@
 {
   "headerData": {
-    "logoDark": "/images/logo.png",
+    "logoDark": "/images/newChLogo.png",
     "logoLight": "/images/logo.png"
   },
   "heroData": {
-    "title": "My name<br />is <b>Nithin</b> <span><br />Bharathi...</span>",
-    "subTitle": "I am that <span>Cybersecurity</span> guy",
+    "title": "It’s me the <span><br />Cyber security...</span><br/>guy",
+    "subTitle": "I am <span>Nithinbharathi</span>",
     "ImgLink": "/images/home-banner.png",
     "phone": "+91 6369 601050",
     "email": "nithinthelordest@gmail.com",
@@ -20,7 +20,7 @@
         "icon": "github"
       },
       {
-        "link": "",
+        "link": "mainto:nithinthelordest@gmail.com",
         "icon": "google"
       }
     ]
@@ -59,7 +59,7 @@
           "text": "I have been with computers since my early childhood. Thus I extend my experties in cybersecurity, web development, and Networking."
         },
         {
-          "number": "200+",
+          "number": "250+",
           "meta": "Students <br /> trained...",
           "text": "With over 2 years of experience —  from a trainee to team lead, I have acquired the skills to make your project a success."
         }
@@ -241,84 +241,60 @@
   }
 ],
   "blogData": [
-    {
-      "ImgLink": "/images/blog-1.jpg",
-      "date": "12 July, 2022",
-      "delay": "700",
-      "title": "12 unique example of portfolio websites",
-      "paragraphList": [
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-      ]
-    },
-    {
-      "ImgLink": "/images/blog-2.jpg",
-      "date": "11 July, 2022",
-      "delay": "800",
-      "title": "12 unique example of portfolio websites",
-      "paragraphList": [
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-      ]
-    },
-    {
-      "ImgLink": "/images/blog-3.jpg",
-      "date": "10 July, 2022",
-      "delay": "900",
-      "title": "12 unique example of portfolio websites",
-      "paragraphList": [
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-      ]
-    },
-    {
-      "ImgLink": "/images/blog-4.jpg",
-      "date": "10 July, 2022",
-      "delay": "1000",
-      "title": "12 unique example of portfolio websites",
-      "paragraphList": [
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
-        },
-        {
-          "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        }
-      ]
-    }
-  ],
+  {
+    "ImgLink": "/images/blog-1.jpg",
+    "date": "April 18, 2025",
+    "delay": "700",
+    "title": "CTF Challenge - Texperia 2025",
+    "paragraphList": [
+      {
+        "text": "Organized a Capture The Flag (CTF) challenge during the Texperia 2025 technical event, focusing on real-world cybersecurity scenarios."
+      },
+      {
+        "text": "The event emphasized quality participation, showcasing the problem-solving skills of upcoming ethical hackers and security enthusiasts."
+      },
+      {
+        "text": "Contributed as part of a core team that handled challenge design, infrastructure setup, and event flow, with support from department leadership and faculty coordinators."
+      }
+    ]
+  },
+  {
+    "ImgLink": "/images/blog-2.jpg",
+    "date": "April 25, 2025",
+    "delay": "800",
+    "title": "LeetCode Bootcamp & Peer Mentorship",
+    "paragraphList": [
+      {
+        "text": "Facilitated a month-long LeetCode bootcamp involving over 150 students and 25 peer mentors from multiple departments."
+      },
+      {
+        "text": "Focused on building consistency in problem-solving, improving algorithmic thinking, and preparing students for coding interviews."
+      },
+      {
+        "text": "Provided hands-on training and guidance to a group of selected students who demonstrated exceptional progress throughout the bootcamp."
+      }
+    ]
+  },
+  {
+    "ImgLink": "/images/blog-3.jpg",
+    "date": "April 27, 2025",
+    "delay": "900",
+    "title": "GenAI Bootcamp – SUSEV with n8n & Gemini",
+    "paragraphList": [
+      {
+        "text": "Developed SUSEV (Smart Utility Solution for Electric Vehicles), an AI-powered workflow solution during a GenAI Bootcamp at SNS iHub."
+      },
+      {
+        "text": "Integrated Google Gemini API with n8n for backend logic and automated decision-making; designed the frontend using ReactJS for better user experience."
+      },
+      {
+        "text": "Worked under expert mentorship to solve an EV-focused problem statement using modern AI automation workflows."
+      }
+    ]
+  }
+]
+
+,
   "sliderData": {
     "testimonialInfo": {
       "useFor": "testimonial",
