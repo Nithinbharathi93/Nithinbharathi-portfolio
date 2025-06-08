@@ -160,36 +160,45 @@
   },
 
 
-"serviceData": [
-  {
-    "title": "Web Development",
-    "heading": "I create static and dynamic websites using MERN and WordPress.",
-    "triger": "One",
-    "imgLink": "/images/services-1.png",
-    "text": "I specialize in developing responsive, secure, and user-friendly websites. Whether it's a sleek portfolio, an interactive dashboard, or a CMS-powered site, I build scalable web solutions using modern stacks like MERN and platforms like WordPress."
-  },
-  {
-    "title": "Pentesting",
-    "heading": "I help you achieve security compliance and uncover vulnerabilities.",
-    "triger": "Two",
-    "imgLink": "/images/services-2.png",
-    "text": "With hands-on expertise in ethical hacking and vulnerability assessment, I provide thorough penetration testing services. From web apps to networks, I help identify risks, conduct threat modeling, and guide you toward achieving robust security compliance."
-  },
-  {
-    "title": "Mobile Application",
-    "heading": "I build cross-platform apps with Python, React Native, and Flutter.",
-    "triger": "Three",
-    "imgLink": "/images/services-3.png",
-    "text": "I develop mobile applications that combine seamless user experiences with high performance. Using frameworks like React Native, Flutter, and Kivy (Python), I craft apps that run smoothly on both Android and iOS, tailored to your goals and audience."
-  },
-  {
-    "title": "Tool Development",
-    "heading": "I develop custom tools for offensive security and automation.",
-    "triger": "Four",
-    "imgLink": "/images/services-4.png",
-    "text": "I design and build specialized tools for penetration testing, reconnaissance, and red teaming operations. My focus is on creating efficient, scriptable utilities that enhance cybersecurity workflows and automate key aspects of offensive security."
-  }
-],
+
+  "serviceData": [
+    {
+      "title": "Frontend Engineering",
+      "heading": "Responsive and interactive UI development using ReactJS & modern frameworks.",
+      "triger": "One",
+      "imgLink": "/images/services-1.png",
+      "text": "I craft sleek, accessible, and interactive interfaces using ReactJS, Tailwind CSS, Material UI, and Flet. From single-page applications to component-driven design systems, I focus on building dynamic user experiences with modern JavaScript libraries."
+    },
+    {
+      "title": "Backend Development",
+      "heading": "Robust backend systems and scalable APIs with Node.js and MongoDB.",
+      "triger": "Two",
+      "imgLink": "/images/services-2.png",
+      "text": "I architect RESTful and event-driven backends using Node.js, Express, and MongoDB. My services include authentication systems, real-time sockets, role-based access controls, and cloud-ready backend APIs for web and mobile platforms."
+    },
+    {
+      "title": "API Integration & Workflows",
+      "heading": "Seamless API integration and automation using third-party services & n8n.",
+      "triger": "Three",
+      "imgLink": "/images/services-3.png",
+      "text": "I specialize in integrating services like Google Sheets API, Gemini, and Deepgram into custom applications. I also build low-code automation flows using n8n for handling webhooks, syncing data, and triggering actions across platforms efficiently."
+    },
+    {
+      "title": "Cybersecurity & Pentesting",
+      "heading": "Offensive security, custom tools, and vulnerability assessments.",
+      "triger": "Four",
+      "imgLink": "/images/services-4.png",
+      "text": "With a strong foundation in ethical hacking and red teaming, I develop and use custom security tools for network and application-level testing. I also conduct CTFs, teach infosec fundamentals, and support secure software development lifecycles."
+    },
+    {
+      "title": "Automation & Custom Tooling",
+      "heading": "Developer tools and offensive security utilities for real-world needs.",
+      "triger": "Five",
+      "imgLink": "/images/services-5.png",
+      "text": "I build CLI and GUI tools to simplify workflows — from steganography-based communication tools to admin dashboards and recon scripts. These tools enhance productivity in security audits, devops, and data collection pipelines."
+    }
+  ],
+
 "portfolioData": [
   {
     "ImgLink": "/images/proj-1.png",

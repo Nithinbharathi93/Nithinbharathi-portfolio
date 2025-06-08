@@ -574,7 +574,7 @@ a {
         .services-title {
           flex: 0 0 33.3333%;
           width: 33.3333%;
-          font-size: 32px;
+          font-size: 24px;
           font-weight: 800;
           text-transform: uppercase;
           line-height: 1.2;
@@ -587,7 +587,7 @@ a {
           @include down-sm {
             flex: 0 0 100%;
             width: 100%;
-            font-size: 22px;
+            font-size: 18px;
           }
           &:after {
             content: "";
