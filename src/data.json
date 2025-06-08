@@ -238,7 +238,49 @@
       { "text": "The tool can automatically detect speakers, remove filler words, and generate clean, timestamped transcripts." },
       { "text": "Supports upload of audio files or live microphone input and exports transcripts in DOCX, TXT, and PDF formats." }
     ]
-  }
+  },
+  {
+  "ImgLink": "/images/proj-5.png",
+  "title": "Medical Coding Assistant",
+  "link": "https://github.com/Nithinbharathi93/medical-coding-assist",
+  "subTitle": "Healthcare AI Utility",
+  "paragraphList": [
+    { "text": "A Gemini-powered AI tool that automates medical coding from clinical scenarios, extracting ICD-10-CM, CPT, and HCPCS codes." },
+    { "text": "Users enter patient case descriptions, and the app intelligently identifies diagnoses, procedures, and relevant medical terminology." },
+    { "text": "Built with Vite + ReactJS and styled with custom components for a clean and intuitive UI." },
+    { "text": "Uses Google Generative AI (Gemini Flash 2.0) to interpret natural language and return structured medical codes in JSON format." },
+    { "text": "Deployed on Vercel with environmental variable protection for secure API key management." },
+    { "text": "Not open source; proprietary solution aimed at supporting medical coders, practitioners, and healthcare data analysts." },
+    { "text": "Live site available at: https://medical-coding-assist.vercel.app/" }
+  ]
+},
+{
+  "ImgLink": "/images/proj-6.png",
+  "title": "Secure File Upload & Malware Scanner",
+  "link": "https://github.com/Nithinbharathi93/secure-file-upload",
+  "subTitle": "File Security & Threat Detection",
+  "paragraphList": [
+    { "text": "A secure web app that scans uploaded files for malware using ClamAV antivirus engine integrated with an Express.js backend." },
+    { "text": "Features a ReactJS frontend allowing users to upload files and get real-time scan results with an intuitive UI." },
+    { "text": "Backend is containerized with Docker, ensuring easy deployment and isolated ClamAV scanning environment." },
+    { "text": "Designed for quick detection of malicious files to protect systems from potential threats during file uploads." }
+  ]
+},
+{
+  "ImgLink": "/images/proj-7.png",
+  "title": "Sustainable EV Optimizer",
+  "link": "https://github.com/Nithinbharathi93/SustainableEV",
+  "subTitle": "Route and Battery Intelligence for Electric Vehicles",
+  "paragraphList": [
+    { "text": "SustainableEV is an intelligent EV travel assistant designed to deliver practical, real-time, and data-driven recommendations based on current battery percentage, weather, traffic conditions, and the selected route." },
+    { "text": "It consumes live data through tools to provide a structured JSON output that includes route suggestions, charging advice, and optimized travel instructions—specifically crafted for EV efficiency." },
+    { "text": "The assistant is strictly restricted from making assumptions and is trained to generate decisions solely based on the input JSON and real-time fetches from weather, traffic, and route services." },
+    { "text": "Ideal for EV route planners, fleet managers, and sustainability-focused developers, the project is fully open-source and easy to integrate with external tools and APIs." }
+  ]
+}
+
+
+
 ],
   "blogData": [
   {
@@ -247,15 +289,9 @@
     "delay": "700",
     "title": "CTF Challenge - Texperia 2025",
     "paragraphList": [
-      {
-        "text": "Organized a Capture The Flag (CTF) challenge during the Texperia 2025 technical event, focusing on real-world cybersecurity scenarios."
-      },
-      {
-        "text": "The event emphasized quality participation, showcasing the problem-solving skills of upcoming ethical hackers and security enthusiasts."
-      },
-      {
-        "text": "Contributed as part of a core team that handled challenge design, infrastructure setup, and event flow, with support from department leadership and faculty coordinators."
-      }
+      { "text": "Organized a Capture The Flag (CTF) challenge during the Texperia 2025 technical event, focusing on real-world cybersecurity scenarios." },
+      { "text": "The event emphasized quality participation, showcasing the problem-solving skills of upcoming ethical hackers and security enthusiasts." },
+      { "text": "Contributed as part of a core team that handled challenge design, infrastructure setup, and event flow, with support from department leadership and faculty coordinators." }
     ]
   },
   {
@@ -264,15 +300,9 @@
     "delay": "800",
     "title": "LeetCode Bootcamp & Peer Mentorship",
     "paragraphList": [
-      {
-        "text": "Facilitated a month-long LeetCode bootcamp involving over 150 students and 25 peer mentors from multiple departments."
-      },
-      {
-        "text": "Focused on building consistency in problem-solving, improving algorithmic thinking, and preparing students for coding interviews."
-      },
-      {
-        "text": "Provided hands-on training and guidance to a group of selected students who demonstrated exceptional progress throughout the bootcamp."
-      }
+      { "text": "Facilitated a month-long LeetCode bootcamp involving over 150 students and 25 peer mentors from multiple departments." },
+      { "text": "Focused on building consistency in problem-solving, improving algorithmic thinking, and preparing students for coding interviews." },
+      { "text": "Provided hands-on training and guidance to a group of selected students who demonstrated exceptional progress throughout the bootcamp." }
     ]
   },
   {
@@ -281,15 +311,9 @@
     "delay": "900",
     "title": "GenAI Bootcamp – SUSEV with n8n & Gemini",
     "paragraphList": [
-      {
-        "text": "Developed SUSEV (Smart Utility Solution for Electric Vehicles), an AI-powered workflow solution during a GenAI Bootcamp at SNS iHub."
-      },
-      {
-        "text": "Integrated Google Gemini API with n8n for backend logic and automated decision-making; designed the frontend using ReactJS for better user experience."
-      },
-      {
-        "text": "Worked under expert mentorship to solve an EV-focused problem statement using modern AI automation workflows."
-      }
+      { "text": "Developed SUSEV (Smart Utility Solution for Electric Vehicles), an AI-powered workflow solution during a GenAI Bootcamp at SNS iHub." },
+      { "text": "Integrated Google Gemini API with n8n for backend logic and automated decision-making; designed the frontend using ReactJS for better user experience." },
+      { "text": "Worked under expert mentorship to solve an EV-focused problem statement using modern AI automation workflows." }
     ]
   }
 ]
