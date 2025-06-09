@@ -294,7 +294,7 @@
   "blogData": [
   {
     "ImgLink": "/images/blog-1.jpg",
-    "date": "April 18, 2025",
+    "date": "March 19, 2025",
     "delay": "700",
     "title": "CTF Challenge - Texperia 2025",
     "paragraphList": [
@@ -305,7 +305,7 @@
   },
   {
     "ImgLink": "/images/blog-2.jpg",
-    "date": "April 25, 2025",
+    "date": "April 30, 2025",
     "delay": "800",
     "title": "LeetCode Bootcamp & Peer Mentorship",
     "paragraphList": [
@@ -316,7 +316,7 @@
   },
   {
     "ImgLink": "/images/blog-3.jpg",
-    "date": "April 27, 2025",
+    "date": "April 23, 2025",
     "delay": "900",
     "title": "GenAI Bootcamp – SUSEV with n8n & Gemini",
     "paragraphList": [
@@ -433,7 +433,7 @@
       },
       {
         "icon": "phone",
-        "title": "Available Mon to Fri, 9 AM – 6 PM (IST)",
+        "title": "Available 9 AM – 6 PM (IST)",
         "text": "+91 6369 601050"
       }
     ],
