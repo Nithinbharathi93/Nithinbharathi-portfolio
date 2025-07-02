@@ -83,14 +83,14 @@ const Contact = ({ data }) => {
                   </li>
                 ))}
               </ul>
-              <div className="google-map" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
+              {/* <div className="google-map" data-aos="fade-up" data-aos-duration="800" data-aos-delay="500">
                 <div className="ratio ratio-21x9">
                   <iframe
                     src="https://maps.google.com/maps?q=11.100778,77.023861&z=15&output=embed"
                     allowFullScreen=""
                   />
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="col-lg-7 ps-xl-5">
