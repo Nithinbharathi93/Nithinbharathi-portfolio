@@ -1,12 +1,11 @@
 {
   "headerData": {
-    "logoDark": "/images/newChLogo.png",
-    "logoLight": "/images/logo.png"
+    "logoDark": "/images/newChLogo.webp"
   },
   "heroData": {
     "title": "It’s me the <span><br />Cyber security...</span><br/>guy",
     "subTitle": "I am <span>Nithinbharathi</span>",
-    "ImgLink": "/images/home-banner.png",
+    "ImgLink": "/images/home-banner.webp",
     "phone": "+91 6369 601050",
     "email": "nithinthelordest@gmail.com",
     "btnText": "Work with me",
@@ -27,7 +26,7 @@
   },
   "aboutData": {
     "aboutLeft": {
-      "ImgLink": "/images/about-banner.png",
+      "ImgLink": "/images/about-banner.webp",
       "name": "Nithinbharathi",
       "designation": "<span>I am that</span> Cybersecurity <span>guy</span>",
       "resumeCv": "/Resume.pdf"
@@ -166,42 +165,42 @@
       "title": "Frontend Engineering",
       "heading": "Responsive and interactive UI development using ReactJS & modern frameworks.",
       "triger": "One",
-      "imgLink": "/images/services-1.png",
+      "imgLink": "/images/services-1.webp",
       "text": "I craft sleek, accessible, and interactive interfaces using ReactJS, Tailwind CSS, Material UI, and Flet. From single-page applications to component-driven design systems, I focus on building dynamic user experiences with modern JavaScript libraries."
     },
     {
       "title": "Backend Development",
       "heading": "Robust backend systems and scalable APIs with Node.js and MongoDB.",
       "triger": "Two",
-      "imgLink": "/images/services-2.png",
+      "imgLink": "/images/services-2.webp",
       "text": "I architect RESTful and event-driven backends using Node.js, Express, and MongoDB. My services include authentication systems, real-time sockets, role-based access controls, and cloud-ready backend APIs for web and mobile platforms."
     },
     {
       "title": "API Integration & Workflows",
       "heading": "Seamless API integration and automation using third-party services & n8n.",
       "triger": "Three",
-      "imgLink": "/images/services-3.png",
+      "imgLink": "/images/services-3.webp",
       "text": "I specialize in integrating services like Google Sheets API, Gemini, and Deepgram into custom applications. I also build low-code automation flows using n8n for handling webhooks, syncing data, and triggering actions across platforms efficiently."
     },
     {
       "title": "Cybersecurity & Pentesting",
       "heading": "Offensive security, custom tools, and vulnerability assessments.",
       "triger": "Four",
-      "imgLink": "/images/services-4.png",
+      "imgLink": "/images/services-4.webp",
       "text": "With a strong foundation in ethical hacking and red teaming, I develop and use custom security tools for network and application-level testing. I also conduct CTFs, teach infosec fundamentals, and support secure software development lifecycles."
     },
     {
       "title": "Automation & Custom Tooling",
       "heading": "Developer tools and offensive security utilities for real-world needs.",
       "triger": "Five",
-      "imgLink": "/images/services-5.png",
+      "imgLink": "/images/services-5.webp",
       "text": "I build CLI and GUI tools to simplify workflows — from steganography-based communication tools to admin dashboards and recon scripts. These tools enhance productivity in security audits, devops, and data collection pipelines."
     }
   ],
 
 "portfolioData": [
   {
-    "ImgLink": "/images/proj-1.png",
+    "ImgLink": "/images/proj-1.webp",
     "title": "P2Peek",
     "link": "https://github.com/your-username/p2peek",
     "subTitle": "Flagship | Communication Platform",
@@ -213,7 +212,7 @@
     ]
   },
   {
-    "ImgLink": "/images/proj-2.png",
+    "ImgLink": "/images/proj-2.webp",
     "title": "Phishing Link Finder",
     "link": "https://github.com/your-username/phishing-link-finder",
     "subTitle": "Defensive Security Tool",
@@ -225,7 +224,7 @@
     ]
   },
   {
-    "ImgLink": "/images/proj-3.png",
+    "ImgLink": "/images/proj-3.webp",
     "title": "Subdomain Finder",
     "link": "https://github.com/your-username/subdomain-finder",
     "subTitle": "Offensive Security Tool",
@@ -237,7 +236,7 @@
     ]
   },
   {
-    "ImgLink": "/images/proj-4.png",
+    "ImgLink": "/images/proj-4.webp",
     "title": "AI Integrated Transcriber",
     "link": "https://github.com/your-username/ai-transcriber",
     "subTitle": "Everyday Assist",
@@ -249,7 +248,7 @@
     ]
   },
   {
-  "ImgLink": "/images/proj-5.png",
+  "ImgLink": "/images/proj-5.webp",
   "title": "Medical Coding Assistant",
   "link": "https://github.com/Nithinbharathi93/medical-coding-assist",
   "subTitle": "Healthcare AI Utility",
@@ -264,7 +263,7 @@
   ]
 },
 {
-  "ImgLink": "/images/proj-6.png",
+  "ImgLink": "/images/proj-6.webp",
   "title": "Secure File Upload & Malware Scanner",
   "link": "https://github.com/Nithinbharathi93/secure-file-upload",
   "subTitle": "File Security & Threat Detection",
@@ -276,7 +275,7 @@
   ]
 },
 {
-  "ImgLink": "/images/proj-7.png",
+  "ImgLink": "/images/proj-7.webp",
   "title": "Sustainable EV Optimizer",
   "link": "https://github.com/Nithinbharathi93/SustainableEV",
   "subTitle": "Route and Battery Intelligence for Electric Vehicles",
@@ -293,7 +292,7 @@
 ],
   "blogData": [
   {
-    "ImgLink": "/images/blog-1.jpg",
+    "ImgLink": "/images/blog-1.webp",
     "date": "March 19, 2025",
     "delay": "700",
     "title": "CTF Challenge - Texperia 2025",
@@ -304,7 +303,7 @@
     ]
   },
   {
-    "ImgLink": "/images/blog-2.jpg",
+    "ImgLink": "/images/blog-2.webp",
     "date": "April 30, 2025",
     "delay": "800",
     "title": "LeetCode Bootcamp & Peer Mentorship",
@@ -315,7 +314,7 @@
     ]
   },
   {
-    "ImgLink": "/images/blog-3.jpg",
+    "ImgLink": "/images/blog-3.webp",
     "date": "April 23, 2025",
     "delay": "900",
     "title": "GenAI Bootcamp – SUSEV with n8n & Gemini",
@@ -352,19 +351,19 @@
       },
       "info": [
         {
-          "imgLink": "/images/sd-pic.png",
+          "imgLink": "/images/sd-pic.webp",
           "name": "Sanjaydharshan",
           "designation": "Frontend developer",
           "text": "Nithinbharathi is always a great mentor and a lovely senior I never thought work would become much easier and fun-filled days were cherishing each and every moment of me being in Techsnapie Solutions with my Brother Nithinbharathi"
         },
         {
-          "imgLink": "/images/k-pic.png",
+          "imgLink": "/images/k-pic.webp",
           "name": "Karuppasamy",
           "designation": "MERN Developer",
           "text": "Working with Nithin has been an exceptional experience. His deep understanding of web technologies and his problem-solving approach consistently elevate our freelance projects. A true professional and a great teammate."
         },
         {
-          "imgLink": "/images/rith-pic.png",
+          "imgLink": "/images/rith-pic.webp",
           "name": "Rithish.G",
           "designation": "DevOps Engineer",
           "text": "At Techsnapie, I’ve seen him manage complex systems with ease and collaborate seamlessly across domains. His cybersecurity insights, combined with solid development skills, make him a valuable asset in any tech-driven environment."
@@ -443,7 +442,7 @@
     }
   },
   "footerData": {
-    "ImgLink": "/images/about-banner.png",
+    "ImgLink": "/images/about-banner.webp",
     "name": "Nithinbharathi"
   },
   "socialData": [
