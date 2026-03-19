@@ -1,19 +1,5 @@
-# Allow all search engine bots
 User-agent: *
 Allow: /
-Allow: /images/
-Allow: *.css
-Allow: *.js
-Allow: *.webp
-Allow: *.png
 
-# Disallow unnecessary crawling
-Disallow: /node_modules/
-Disallow: /src/
-Disallow: /.git/
 
-# Crawl delay for respectful indexing (optional)
-Crawl-delay: 1
-
-# Specify sitemap (create if you have one)
 Sitemap: https://nithinbharathi.vercel.app/sitemap.xml
